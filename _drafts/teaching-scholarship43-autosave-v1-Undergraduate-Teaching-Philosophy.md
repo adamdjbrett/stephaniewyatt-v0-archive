@@ -1,0 +1,28 @@
+---
+id: 128
+title: Undergraduate Teaching Philosophy
+date: 2012-01-06T21:26:30+00:00
+author: Stephanie Wyatt
+layout: revision
+guid: http://stephaniewyatt.net/43-autosave/
+permalink: /43-autosave-v1/
+---
+Teaching and learning empowers students to tell their own story, converse with the story of a discipline, and organize their own cognitive map for shaping their future story. By going through these dialogic processes students hone their thinking; integrate their beliefs, values, and commitments; and practice moral values. This teaching philosophy emerges from my own experience of being a student in multiple types of classrooms, reflection in a Ph.D. course on postmodern theories of education co-taught by Divinity School and Education faculty, and experience teaching in the church and academy. Most recently I completed two semesters teaching Hebrew to students at Brite Divinity School and have worked as a teaching assistant for six semesters in an introductory undergraduate course, Understanding Religion: Texts &amp; Ideas (focusing on the Hebrew Bible), in the religion department at TCU.
+
+In my experience, many college students consider ideas that contradict their current understanding of the world to be a threat. I want to teach students not what to think, but help them shape how they think. In other words, I see the classroom as an opportunity for greater understanding of all sorts.
+
+My ultimate goal is for students to have a reflective framework so that they can approach new information with openness, a critical mind, and a growing sense of what is important to them. In order for a student to fully consider the academic disciplines college sets before them, they need to be able to consider information outside of their own perspective and to identify how their perspective shapes meaning. I utilize lecture, discussion, class assignments, feedback, and personal meetings with students to accomplish these goals.
+
+While serving as a teaching assistant in Dr. Claudia Camp’s courses I overheard a student remark in reference to a grade on a recent assignment, “She doesn’t care what we think; she just wants us to think like she does.” I had heard this kind of rationale before and knew that some students feel this way no matter how thorough the grading rubric provided or how specific the discussion about assignments in class. However, in my next efforts to assist Dr. Camp, I decided to pay particular notice to the relationship between my own personal ideas about the subject matter and the grades I thought appropriate.
+
+Two papers stood out for me in this process. In the first, the student sufficiently articulated the ideas of the course, interacted with class readings, and reflected upon their significance. She then articulated some of her own values and beliefs on the subject. While this woman came to drastically different conclusions that I myself hold, she demonstrated a facility with and a capacity to evaluate the information of the course thoughtfully through the lens of her own beliefs, values, and commitments. I judged this paper to be A worthy.
+
+Likewise, I read another paper that more closely resembled by own views, but lacked clarity, organization, and critical assessment. While I personally appreciated his critique of a particular biblical story, he did not sufficiently support his argument with textual references and course readings. This paper fell in the C- range.
+
+This experience taught me that what I want for students is not to parrot what I think or to adopt my beliefs, values, and commitments, but to learn how to assess course concepts in light of their own, to notice places where information confirms or contradicts their own perspective, to examine whether their own beliefs, values, and commitments are in conflict on an issue, and to thoughtfully reevaluate their own viewpoint. For me, the point of teaching critical thinking is not for students to think critically the same way I think critically, but to be willing to engage their own family background, cultural context, religious or philosophical beliefs, etc. critically as they come in contact with new information and opinions inside and outside of the classroom.
+
+Upper level classes take this approach to the next level: including a mixture of lecture and discussion, but at this stage students should be able to assert more than the basics of what they have read. Advanced students should synthesize concepts and develop a thoughtful, articulate, and well-supported argument. They should name and explore the “So What?” question. What difference do the concepts of the course make to them? How will they proceed differently or similarly in light of this new information? If they have come to a different conclusion on some issue at the end of the course, why has this change occurred? How will their interactions with readings, research, and discussion impact who they are as people, as professionals, as ethical actors, and as citizens?
+
+I enjoy the give and take of the classroom and the process of giving feedback on students’ assignments. I delight helping students enhance and refine their voices.
+
+<a title="Click here to Download Stephanie's Undergraduate Teaching Philosophy as a 52kb PDF" href="http://stephaniewyatt.net/wp-content/uploads/Stephanie_Wyatt_Undergraduate_Teaching_Philosophy.pdf" target="_blank">Undergraduate Teaching Philosophy</a>
